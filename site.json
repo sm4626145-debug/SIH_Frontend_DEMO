@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates collaboration between academia and industry by providing a platform for skill mapping, internships, and placement opportunities for students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
