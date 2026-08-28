@@ -1,0 +1,50 @@
+{
+  "hash": "e149150b",
+  "configHash": "239a36b1",
+  "lockfileHash": "085d50e7",
+  "browserHash": "bc2eeb40",
+  "optimized": {
+    "react-dom": {
+      "src": "../../.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "3ac03c55",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f9e14a0c",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../.pnpm/react@19.2.4/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "01071595",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../.pnpm/react@19.2.4/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "70748e4f",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../.pnpm/react@19.2.4/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "69411358",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../.pnpm/recharts@3.10.1_@types+reac_ce8fec50c980d4ac21231a6b9d9cb82b/node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "7b720035",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "react--WRKu3Vm": {
+      "file": "react--WRKu3Vm.js",
+      "isDynamicEntry": false
+    }
+  }
+}
